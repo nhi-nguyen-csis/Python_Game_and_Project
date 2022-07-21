@@ -1,0 +1,76 @@
+{
+    "contact list": [
+        {
+            "id": 1,
+            "name": "John",
+            "age": 30,
+            "phone": "619-979-9500",
+            "is family?": false,
+            "note": "None"
+        },
+        {
+            "id": 2,
+            "name": "Emma",
+            "age": 21,
+            "phone": "619-652-7747",
+            "is family?": true,
+            "note": "sister"
+        },
+        {
+            "id": 3,
+            "name": "Jonathan B",
+            "age": 10,
+            "phone": "619-969-8323",
+            "is family?": true,
+            "note": "None"
+        },
+        {
+            "id": 4,
+            "name": "Jonathan",
+            "age": 30,
+            "phone": "952-949-7677",
+            "is family?": false,
+            "note": "friend of my friend"
+        },
+        {
+            "id": 5,
+            "name": "Grace",
+            "age": 12,
+            "phone": "968-755-3835",
+            "is family?": true,
+            "note": "None"
+        },
+        {
+            "id": 6,
+            "name": "Bruce",
+            "age": 18,
+            "phone": "918-932-9687",
+            "is family?": false,
+            "note": "my student in Python class"
+        },
+        {
+            "id": 7,
+            "name": "Michael",
+            "age": 45,
+            "phone": "959-636-8969",
+            "is family?": false,
+            "note": "we're in the same club at school"
+        },
+        {
+            "id": 8,
+            "name": "Jonathan",
+            "age": 30,
+            "phone": "952-949-7677",
+            "is family?": false,
+            "note": "high school friend"
+        },
+        {
+            "id": 9,
+            "name": "Caleb",
+            "age": "18",
+            "phone": "611-211-3111",
+            "is family?": "yes",
+            "note": "brother"
+        }
+    ]
+}
