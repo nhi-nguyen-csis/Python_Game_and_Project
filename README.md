@@ -7,3 +7,4 @@
 ## Games
 - [Maze Run Game](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Games/Maze_Run_Game)
 - [Rock Paper Scissors](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Games/Rock_Paper_Scissors)
+- [Bagels](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Games/Bagels)
