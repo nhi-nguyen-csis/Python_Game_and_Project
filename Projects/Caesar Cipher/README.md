@@ -2,8 +2,8 @@
 
 Here are some notes:
 - Caesar cipher only works on uppercase letters
-- Caesar cipher encrypts/decrypts alphabetical letters
-- I use modulus to handle the wrap-around for encrypt and decrypt
+- Caesar cipher encrypts/decrypts alphabetical letters only
+- I use modulus to handle the wrap-around for encrypt and decrypt in the program
 
 Example inputs and outputs:
 ```
