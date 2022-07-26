@@ -4,6 +4,7 @@
 - [Contact List](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Projects/Contact_List)
 - [Street Food](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Projects/Street_Food)
 - [Birthday Paradox](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Projects/Birthday_Paradox)
+- [Caesar cipher](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/blob/main/Projects/Caesar%20Cipher/README.md)
 
 ## Games
 - [Maze Run Game](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Games/Maze_Run_Game)
