@@ -11,3 +11,4 @@
 - [Maze Run Game](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Games/Maze_Run_Game)
 - [Rock Paper Scissors](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Games/Rock_Paper_Scissors)
 - [Bagels](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Games/Bagels)
+- [Carrot In the Box](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/blob/main/Games/Carrot_In_A_Box/Carrot_In_A_Box.py)
