@@ -1,4 +1,4 @@
-# Python Game and Project for beginners
+# Python Game and Project for Beginners
 
 ## Projects
 - [Contact List](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Projects/Contact_List)
