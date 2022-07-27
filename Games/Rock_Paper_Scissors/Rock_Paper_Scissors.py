@@ -1,5 +1,33 @@
 import random
 
+ROCK = '''
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+'''
+
+PAPER = '''
+     _______
+---'    ____)____
+           ______)
+          _______)
+         _______)
+---.__________)
+'''
+
+SCISSOR = '''
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+'''
+
+
 def welcome():
     print("Hey! Let's play 'Rock - Paper - Scissors Game'")
 
@@ -22,14 +50,14 @@ def getComputerChoice():
     return random.choice(['R', 'P', 'S'])
 
 def whoWin(userChoice, computerChoice):
-    userWin = -1 # -1 means computer wins
+    userWin = -1 # -1 means user loses 1 point, computer wins
     mList = ["RS", "PR", "SP"]
     for choice in mList:
         if userChoice == choice[0]:
             if computerChoice == choice[0]:
                 userWin = 0 # 0 means it's a tie
             elif computerChoice == choice[1]:
-                userWin = 1 # 1 means user wins
+                userWin = 1 # 1 means user wins 1 point
     return userWin
 
 def getPoint(userChoice, computerChoice, userPt, computerPt):
@@ -51,7 +79,7 @@ def main():
     welcome()
     userPt, computerPt = 0, 0
     isContinue = True
-    rockPaperScissor = {'R': "Rock", 'P': "Paper", "S": "Scissors"}
+    rockPaperScissor = {'R': ROCK, 'P': PAPER, 'S': SCISSOR}
     while isContinue:
         userChoice = getUserChoice()
         # users don't want to play anymore
@@ -60,7 +88,7 @@ def main():
         # if users wants to play
         computerChoice = getComputerChoice()
         # show what they picked
-        print(f"\nUser: {rockPaperScissor[userChoice]}\t|\tComputer: {rockPaperScissor[computerChoice]}")
+        print(f"\nUser: {rockPaperScissor[userChoice]}|\nComputer: {rockPaperScissor[computerChoice]}")
         # save userPt and computerPt
         userPt, computerPt = getPoint(userChoice, computerChoice, userPt, computerPt)
     # users stopped the game
