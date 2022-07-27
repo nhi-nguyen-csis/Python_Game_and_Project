@@ -18,7 +18,7 @@ def brute_force(message):
         print(f"Key #{i}: {generateEncrypt(i, message)}")
 
 def main():
-    message = input("Enter the encrypted Caesar cipher message to hack: ").upper()
+    message = input("Enter the decrypted Caesar cipher message to hack:\n").upper()
     brute_force(message)
 if __name__ == '__main__':
     main()
