@@ -12,3 +12,4 @@
 - [Rock Paper Scissors](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Games/Rock_Paper_Scissors)
 - [Bagels](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Games/Bagels)
 - [Carrot In the Box](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/blob/main/Games/Carrot_In_A_Box/Carrot_In_A_Box.py)
+- [Cho - Han](https://github.com/nhi-nguyen-csis/Python_Game_and_Project/tree/main/Games/Cho_Han_Dice_Game)
